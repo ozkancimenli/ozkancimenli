@@ -1,35 +1,50 @@
-# 👋 Hey — I'm Ozkan Cimenli
-
-**Full-Stack Developer** focused on building modern web apps with **Flask**, **Next.js**, and **TypeScript**.  
-I love turning complex ideas into clean, working products.
+# Hi there, I'm Özkan Cimenli 👋  
+### Full-Stack Software Engineer | Building Scalable Web & API Solutions
 
 ---
 
-## 🚀 Featured Project
+## 👨‍💻 About Me
+I'm a passionate **Full-Stack Software Engineer** who enjoys building scalable, efficient, and user-focused web applications.  
+Currently, I’m focused on developing clean APIs, modern frontend interfaces, and learning advanced cloud deployment strategies.
 
-### 🧭 [TaskTrackr-Pro](https://github.com/ozkancimenli/tasktrackr-pro)
-A full-stack task management platform that helps teams create, assign, and track tasks efficiently.
-
-**Tech Stack:** Next.js (TypeScript), Flask, SQLAlchemy, MySQL, Docker, JWT, React Query, TailwindCSS  
-**Key Features:**
-- Full CRUD for projects & tasks  
-- JWT authentication and protected routes  
-- REST API with Swagger documentation  
-- CI/CD via GitHub Actions + Render + Vercel  
-- Clean, mobile-friendly UI
-
-**Live Demo:**  
-Frontend → [tasktrackr.vercel.app](https://frontend-six-gamma-32.vercel.app/)  
-Backend → [backend-4wax.onrender.com](https://backend-4wax.onrender.com)
+- 🎓 Studied **Audiology** at the Faculty of Health Sciences  
+- 💻 Completed the **Coding Temple Software Engineering Program**  
+- 🌎 Based in the **United States**  
+- ⚙️ Interested in **web apps, APIs, and automation workflows**
 
 ---
 
-## 🧠 About Me
-- 🌍 Based in New York, US  
-- 💼 Actively looking for Backend / Full-Stack roles  
-- 💬 Passionate about clean code, UI detail, and scalable architecture  
-- 📫 Contact: **cimenliozkan1@gmail.com** | [LinkedIn](https://www.linkedin.com/in/ozkancimenli)
+## 🧠 Tech Stack
+**Languages:** Python, JavaScript, TypeScript, SQL  
+**Frontend:** React, Next.js, HTML, CSS, Tailwind  
+**Backend:** Flask, Django, RESTful APIs, SQLAlchemy  
+**Database:** MySQL, PostgreSQL, Firebase  
+**DevOps:** Docker, Render, Vercel, GitHub Actions  
+**Tools:** Git, VS Code, Postman, Swagger  
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🏗️ Featured Projects
+
+### 🔹 [TaskTrackr Pro](https://github.com/ozkancimenli/tasktrackr-pro)
+A full-stack task management app built with **Next.js**, **Flask**, and **MySQL**, featuring CRUD operations, authentication, and a modern UI.
+
+### 🔹 [Mechanic Shop API](https://github.com/ozkancimenli/mechanic-shop-api)
+RESTful API built using the **Application Factory Pattern**, **Blueprints**, and **Swagger** documentation for mechanics, customers, and service tickets.
+
+
+---
+
+## 📊 GitHub Insights
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozkancimenli&show_icons=true&hide_border=true&theme=default&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkancimenli&layout=compact&hide_border=true&theme=default)
+
+---
+
+## 📬 Contact
+📧 **Email:** cimenliozkan1@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/ozkancimenli](https://linkedin.com/in/ozkancimenli)
+
+---
+
+_“Clean code. Clear purpose. Continuous growth.”_
