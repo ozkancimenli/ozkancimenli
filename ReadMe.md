@@ -29,6 +29,10 @@ Currently, I’m focused on developing clean APIs, modern frontend interfaces, a
 ### 🔹 [TaskTrackr Pro](https://github.com/ozkancimenli/tasktrackr-pro)
 A full-stack task management app built with **Next.js**, **Flask**, and **MySQL**, featuring CRUD operations, authentication, and a modern UI.
 
+### 🔹 [CollabCanvas](https://github.com/ozkancimenli/collabcanvas)
+Real-time collaborative whiteboard built with **Next.js 14**, **Clerk**, and **Liveblocks**.  
+Collaborate visually, brainstorm freely — in real time.
+
 ### 🔹 [Mechanic Shop API](https://github.com/ozkancimenli/mechanic-shop-api)
 RESTful API built using the **Application Factory Pattern**, **Blueprints**, and **Swagger** documentation for mechanics, customers, and service tickets.
 
