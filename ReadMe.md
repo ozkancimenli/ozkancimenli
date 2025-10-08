@@ -19,8 +19,8 @@ A full-stack task management platform that helps teams create, assign, and track
 - Clean, mobile-friendly UI
 
 **Live Demo:**  
-Frontend → [tasktrackr.vercel.app](https://tasktrackr.vercel.app)  
-Backend → [backend-4wax.onrender.com](https://backend-4wax.onrender.com/swagger)
+Frontend → [tasktrackr.vercel.app](https://frontend-six-gamma-32.vercel.app/)  
+Backend → [backend-4wax.onrender.com](https://backend-4wax.onrender.com)
 
 ---
 
