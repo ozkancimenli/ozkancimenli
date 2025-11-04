@@ -15,23 +15,25 @@ Currently, I’m focused on developing clean APIs, modern frontend interfaces, a
 ---
 
 ## 🧠 Tech Stack
-**Languages:** Python, JavaScript, TypeScript, SQL  
-**Frontend:** React, Next.js, HTML, CSS, Tailwind  
-**Backend:** Flask, Django, RESTful APIs, SQLAlchemy  
-**Database:** MySQL, PostgreSQL, Firebase  
-**DevOps:** Docker, Render, Vercel, GitHub Actions  
-**Tools:** Git, VS Code, Postman, Swagger  
-
+**Languages:** JavaScript (ES6+), Python, TypeScript 
+**Web & Frameworks:** React (Redux Toolkit, React Query, Shadcn/UI, Tailwind CSS), Flask (REST APIs, Swagger/
+OpenAPI), Django, Node.js, MERN Stack, HTML5 & CSS3  
+**Database & Infrastructure:** SQLAlchemy, Marshmallow, Docker, MySQL, PostgreSQL, Firebase (Auth, Firestore),
+Redis, Elasticsearch
+**Testing & CI/CD:** Unit Testing (unittest, Jest, RTL), Pytest, GitHub Actions, Render, Vercel  
+**Design & Collaboration:** Figma, Notion, Jira, Trello, Slack
+**Product & Soft Skills:** Product Management, Debugging, User Empathy, Agile Workflow
 ---
 
 ## 🏗️ Featured Projects
 
-### 🔹 [Insight Journal](https://github.com/ozkancimenli/InsightJournal)
+### 🔹 [Insight Journal — AI-Powered Emotional Reflection App](https://github.com/ozkancimenli/InsightJournal)
  · [Live Demo](https://insight-journal-ozkancimenlis-projects.vercel.app)
-
-
-AI-powered journaling app built with Next.js 14, TypeScript, Supabase, and OpenAI API.
-Analyzes user reflections, detects emotional tone, and generates weekly mood insights.
+• Developed a full-stack journaling web application with Next.js and Tailwind CSS.
+• Integrated OpenAI API to generate AI-based reflections and emotion summaries.
+• Built a relational data model using Prisma ORM and deployed on Vercel with CI/CD pipelines.
+• Implemented secure authentication and session handling via Clerk Auth.
+• Designed a responsive and minimalist UI focused on emotional user interaction.
 
 ### 🔹 [Lafoule Minimal Blog & Portfolio](https://github.com/ozkancimenli/lafoule-m)
    · [Live Demo](https://ozkancimenli.com)
