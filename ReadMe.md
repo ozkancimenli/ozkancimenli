@@ -1,4 +1,4 @@
-# Hi there, I'm Özkan Cimenli 👋  
+# Hi there, I'm Ozkan Cimenli 👋  
 ### Full-Stack Software Engineer | Building Scalable Web & API Solutions
 
 ---
