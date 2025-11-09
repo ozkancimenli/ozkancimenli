@@ -16,13 +16,19 @@ Currently, I’m focused on developing clean APIs, modern frontend interfaces, a
 
 ## 🧠 Tech Stack
 **Languages:** JavaScript (ES6+), Python, TypeScript 
+
 **Web & Frameworks:** React (Redux Toolkit, React Query, Shadcn/UI, Tailwind CSS), Flask (REST APIs, Swagger/
 OpenAPI), Django, Node.js, MERN Stack, HTML5 & CSS3  
-**Database & Infrastructure:** SQLAlchemy, Marshmallow, Docker, MySQL, PostgreSQL, Firebase (Auth, Firestore),
+
+**Database & Infrastructure:** SQLAlchemy, Marshmallow, Docker, SQL, MySQL, PostgreSQL, Firebase (Auth, Firestore),
 Redis, Elasticsearch
-**Testing & CI/CD:** Unit Testing (unittest, Jest, RTL), Pytest, GitHub Actions, Render, Vercel  
+
+**Testing & CI/CD:** Unit Testing (unittest, Jest, RTL), Pytest, GitHub Actions, Render, Vercel 
+
 **Design & Collaboration:** Figma, Notion, Jira, Trello, Slack
+
 **Product & Soft Skills:** Product Management, Debugging, User Empathy, Agile Workflow
+
 ---
 
 ## 🏗️ Featured Projects
